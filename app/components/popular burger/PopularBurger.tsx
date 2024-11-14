@@ -1,26 +1,6 @@
 "use client";
 import React from 'react';
-import Carousel from 'react-multi-carousel';
-import 'react-multi-carousel/lib/styles.css';
 import Image from 'next/image';
-
-const responsive = {
-  desktop: {
-    breakpoint: { max: 3000, min: 1324 },
-    items: 4,
-    slidesToSlide: 1,
-  },
-  tablet: {
-    breakpoint: { max: 1324, min: 764 },
-    items: 2,
-    slidesToSlide: 1,
-  },
-  mobile: {
-    breakpoint: { max: 764, min: 0 },
-    items: 1,
-    slidesToSlide: 1,
-  },
-};
 
 const PopularBurger = () => {
   return (
@@ -29,18 +9,7 @@ const PopularBurger = () => {
         Our Popular <span className="text-red-600">Burgers</span>
       </h1>
       <div className="w-[80%] mt-[4rem] mx-auto ">
-        <Carousel
-          ariaLabel="Popular Burgers"
-          additionalTransform={0}
-          arrows={true}
-          autoplay={true}
-          autoPlaySpeed={4000}
-          centerMode={false}
-          infinite
-          responsive={responsive}
-          itemClass="carousel-item-padding-40-px"
-          showDots={false}
-        >
+        
           {/* Card 1 */}
           <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100 gap-[5rem]" >
@@ -152,7 +121,7 @@ const PopularBurger = () => {
         </div>
 
 
-        </Carousel>
+        
 
       </div>
     </div>
