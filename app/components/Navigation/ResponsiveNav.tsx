@@ -25,7 +25,5 @@ const ResponsiveNav = () => {
 }
 
 export default ResponsiveNav
-function setShowNav(arg0: boolean) {
-  throw new Error('Function not implemented.')
-}
+
 
