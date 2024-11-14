@@ -2,8 +2,8 @@
 import Image from 'next/image';
 import Carousel from 'react-multi-carousel';
 import React from 'react';
-// import 'react-multi-carousel/lib/styles.css';
-// import 'react-responsive-carousel/lib/styles/carousel.min.css';
+import 'react-multi-carousel/lib/styles.css';
+import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { BiCycling } from 'react-icons/bi';
 
 

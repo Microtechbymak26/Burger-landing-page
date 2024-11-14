@@ -1,4 +1,5 @@
 "use client";
+import React from 'react'
 import Hero from './hero/hero'
 import Features from './features/features'
 import PopularBurger from './popular burger/PopularBurger'
@@ -9,6 +10,8 @@ import NewsLetter from './NewsLetter/NewsLetter'
 
 
 const home = () => {
+
+  
   return (
     <div className='overflow-hidden'>
     <Hero></Hero>
