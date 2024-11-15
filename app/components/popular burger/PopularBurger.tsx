@@ -45,7 +45,7 @@ const PopularBurger = () => {
           <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100 gap-[5rem]" >
             <Image src="/b1.png" alt="burger" width={500} height={800} className="rounded-3xl" />
-            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite</h1>
+            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite Burger</h1>
             <p className="mt-[0.2rem] text-black text-opacity-60 text-center">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam sed, dolor
               ducimus officiis a ullam, iure tenetur iste tempore mollitia exercitationem explicabo
@@ -63,7 +63,7 @@ const PopularBurger = () => {
         <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100">
             <Image src="/b2.png" alt="burger" width={500} height={800} className="rounded-3xl" />
-            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite</h1>
+            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Cheese Burger</h1>
             <p className="mt-[0.2rem] text-black text-opacity-60 text-center">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam sed, dolor
               ducimus officiis a ullam, iure tenetur iste tempore mollitia exercitationem explicabo
@@ -81,7 +81,7 @@ const PopularBurger = () => {
         <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100">
             <Image src="/b3.png" alt="burger" width={500} height={800} className="rounded-3xl" />
-            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite</h1>
+            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Single Beefy Cheese Burger</h1>
             <p className="mt-[0.2rem] text-black text-opacity-60 text-center">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam sed, dolor
               ducimus officiis a ullam, iure tenetur iste tempore mollitia exercitationem explicabo
@@ -99,7 +99,7 @@ const PopularBurger = () => {
         <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100">
             <Image src="/b5.png" alt="burger" width={500} height={800} className="rounded-3xl" />
-            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite</h1>
+            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Double Beefy Cheese Burger</h1>
             <p className="mt-[0.2rem] text-black text-opacity-60 text-center">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam sed, dolor
               ducimus officiis a ullam, iure tenetur iste tempore mollitia exercitationem explicabo
@@ -117,7 +117,7 @@ const PopularBurger = () => {
         <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100">
             <Image src="/b6.png" alt="burger" width={500} height={800} className="rounded-3xl" />
-            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite</h1>
+            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Double Beef Cheese Burger</h1>
             <p className="mt-[0.2rem] text-black text-opacity-60 text-center">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam sed, dolor
               ducimus officiis a ullam, iure tenetur iste tempore mollitia exercitationem explicabo
@@ -136,7 +136,7 @@ const PopularBurger = () => {
         <div className="card-container">
           <div className="card hover:bg-white rounded-lg transition-transform transform hover:scale-105 duration-200 p-6 bg-gray-100">
             <Image src="/b7.png" alt="burger" width={500} height={800} className="rounded-3xl" />
-            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Beefy Bite</h1>
+            <h1 className="mt-[1.5rem] text-center text-[24px] text-black font-semibold">Single Beef Cheese Burger</h1>
             <p className="mt-[0.2rem] text-black text-opacity-60 text-center">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident veniam sed, dolor
               ducimus officiis a ullam, iure tenetur iste tempore mollitia exercitationem explicabo
